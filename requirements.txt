@@ -2,7 +2,6 @@ beautifulsoup4
 yfinance
 pandas
 pandas_ta
-get_distribution
 setuptools
 Pygments==2.11.2
 pyparsing==3.0.9
