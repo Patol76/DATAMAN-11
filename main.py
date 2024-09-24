@@ -1,5 +1,5 @@
 import streamlit as st
-
+import distutils.core
 # Import page functions
 from home import home_page
 from technical_analysis import technical_analysis_page
