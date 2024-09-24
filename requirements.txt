@@ -4,3 +4,4 @@ pandas
 pandas_ta
 pkg_resources
 get_distribution
+setuptools
